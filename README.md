@@ -45,8 +45,8 @@ In order to construct, train, and test the neural network model, we first had to
 
 After the data was preprocessed, we used the following parameters to compile, train, and evaluate the model as shown in the image below:
 
-![ImageParamOG](../Images/ImageParamOG.png)
-![ImageAccuracyOG](../Images/ImageAccuracyOG.png)
+![ImageParamOG](./Images/ImageParamOG.png)
+![ImageAccuracyOG](./Images/ImageAccuracyOG.png)
 
 - Both the first and second hidden layers were activated using RELU - Rectified Linear Unit function. The output layer was activated using the Sigmoid function.
 
