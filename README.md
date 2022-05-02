@@ -83,9 +83,9 @@ Three additional attempts were made to increase the model's performance by chang
 
 ## Summary:
 
-In conclusion, our model and multiple optimizations failed to produce the intended result of greater than 75%. The modifications were small and did not improve as we had hoped with the adjustments of expanding the epochs, eliminating variables, adding a 3rd hidden layer (done offline in Optimization attempt #4), and/or increasing/decreasing the neurons. Other Machine Learning algorithms did not produce any better results when tested. For example, the prediction accuracy of the Random Forest Classifier was similar to that of the neural network model, while the neural network model performed somewhat better.
+In conclusion, our model and multiple optimizations failed to produce the intended result of greater than 75%. The modifications were small and did not improve as we had hoped with the adjustments of expanding the epochs, eliminating variables, adding a 3rd hidden layer (done offline in Optimization attempt #4), and/or increasing/decreasing the neurons. Other Machine Learning algorithms did not produce any better results when tested. For example, the prediction accuracy of the `Random Forest Classifier` was similar to that of the neural network model, while the neural network model performed somewhat better.
 
-Overall, Neural Networks are very intricate and would require experience through trial and error or many iterations to identify the perfect configuration to work with this dataset.
+Overall, `Neural Networks` are very intricate and would require experience through trial and error or many iterations to identify the perfect configuration to work with this dataset.
 
 ## Resources
 
